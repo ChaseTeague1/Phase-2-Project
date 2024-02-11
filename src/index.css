@@ -1,1 +1,55 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.card{
+  width: 300px;
+  text-align: center;
+  justify-items: center;
+  display: inline-grid;
+  border: solid 2px grey;
+  margin: 1rem 2rem;
+  border-radius: 5px;
+}
+
+.card img{
+  justify-self: center;
+  margin: 10px;
+  height: 10rem;
+  width: 12rem;
+  border: grey solid 1px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #04AA6D; /* Green */
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 5px;
+  border: solid 1px grey;
+  margin: 5px;
+}
+
+button:hover{
+  background-color: darkgreen;
+}
+
+.recipe-form-container{
+  border: solid 2px black;
+  width: 50rem;
+  height: 20rem;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
+
+.input-field{
+  width: 20rem;
+}
+
+label{
+  text-align: center;
+}

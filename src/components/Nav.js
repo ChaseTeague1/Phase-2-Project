@@ -2,8 +2,9 @@ import React from "react";
 
 function Nav(){
     return (
-        <div>
-            <h1>hello from Nav.js</h1>
+        <div className="nav-bar">
+            <h1>Recipe Finder</h1>
+            <p>Let's get cooking!</p>
         </div>
     )
 }
