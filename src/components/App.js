@@ -10,6 +10,9 @@ import {Route, Switch} from 'react-router-dom';
 function App(){
     const [recipes, setRecipes] = useState([]);
     const [searchInput, setSearchInput] = useState("");
+    const [selectedCategory, setCategory] = useState("All");
+
+    const categories = ['All','Italian', 'Mexican','Asian','Vegetarian','Dessert','Seafood', 'American'];
 
 useEffect(() => {
     fetch('http://localhost:3001/recipes')
@@ -21,7 +24,12 @@ function onNewFormSubmit(newRecipe){
     setRecipes([...recipes, newRecipe])
 }
 
-    const recipesToDisplay = recipes.filter(recipe => recipe.name.toLowerCase().includes(searchInput.toLowerCase()));
+    const recipesToDisplay = 
+    recipes.filter(recipe => recipe.name.toLowerCase().includes(searchInput.toLowerCase()))
+    .filter(recipe => {
+        if(selectedCategory === 'All') return true;
+        return recipe.category === selectedCategory;
+    });
 
     return (
         <div className="app-container">
@@ -31,7 +39,7 @@ function onNewFormSubmit(newRecipe){
                     <Home />
                 </Route>
                 <Route path="/recipes"> 
-                    <Search setSearchInput={setSearchInput} searchInput={searchInput}/>
+                    <Search setCategory={setCategory} selectedCategory={selectedCategory} categories={categories} setSearchInput={setSearchInput} searchInput={searchInput}/>
                     <RecipeList recipes={recipesToDisplay}/>
                 </Route>
                 <Route path="/recipeform">

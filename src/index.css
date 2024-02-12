@@ -176,3 +176,13 @@ label{
   text-decoration:underline;
   background-color: #fae5d3;
 }
+
+.selected{
+  background-color: #663300;
+  border-radius: 20px;
+  text-decoration: underline;
+}
+
+.category-button{
+  border-radius: 20px;
+}

@@ -295,7 +295,7 @@
           "Fresh oregano (for garnish, optional)"
         ],
         "cook_time": "15 minutes",
-        "category": "Salad",
+        "category": "Vegetarian",
         "image_url": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
       },
       {
@@ -374,7 +374,7 @@
           "Pepper"
         ],
         "cook_time": "30 minutes",
-        "category": "Soup",
+        "category": "Vegetarian",
         "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2013/12/Creamy-Tomato-Basil-Soup-2.jpg"
       }
   ]
