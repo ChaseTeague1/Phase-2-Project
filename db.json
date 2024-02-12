@@ -1,173 +1,173 @@
 {
-    "recipes": [
-      {
-        "id": 1,
-        "name": "Classic Lasagna",
-        "description": "Layers of pasta, meat sauce, and cheese baked to perfection.",
-        "instructions": "1. Preheat oven to 375°F (190°C).\n2. Cook lasagna noodles according to package instructions.\n3. In a skillet, cook ground beef and onion until browned. Drain excess fat. Stir in marinara sauce.\n4. In a separate bowl, mix ricotta cheese, egg, parsley, salt, and pepper.\n5. Spread a thin layer of meat sauce in the bottom of a baking dish. Arrange a layer of lasagna noodles on top. Spread a layer of ricotta mixture, followed by meat sauce and shredded mozzarella cheese. Repeat layers.\n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes until bubbly and golden.\n7. Let it cool for 10 minutes before serving.",
-        "ingredients": [
-          "Lasagna noodles",
-          "Ground beef",
-          "Onion",
-          "Marinara sauce",
-          "Ricotta cheese",
-          "Egg",
-          "Fresh parsley",
-          "Salt",
-          "Black pepper",
-          "Shredded mozzarella cheese"
-        ],
-        "cook_time": "1 hour 20 minutes",
-        "category": "Italian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 2,
-        "name": "Chicken Alfredo Pasta",
-        "description": "Creamy pasta with tender chicken and a rich Alfredo sauce.",
-        "instructions": "1. Cook fettuccine pasta according to package instructions.\n2. In a skillet, cook chicken breast until browned and cooked through.\n3. In a separate saucepan, melt butter. Stir in minced garlic and cook until fragrant.\n4. Pour in heavy cream and simmer until slightly thickened.\n5. Stir in grated Parmesan cheese until melted and smooth.\n6. Season with salt and pepper to taste.\n7. Toss cooked pasta with Alfredo sauce and sliced chicken.\n8. Serve hot, garnished with chopped parsley if desired.",
-        "ingredients": [
-          "Fettuccine pasta",
-          "Chicken breast",
-          "Butter",
-          "Garlic",
-          "Heavy cream",
-          "Parmesan cheese",
-          "Salt",
-          "Black pepper",
-          "Fresh parsley (optional)"
-        ],
-        "cook_time": "30 minutes",
-        "category": "Italian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 3,
-        "name": "Beef Tacos",
-        "description": "Flavorful seasoned beef served in crispy taco shells with all the fixings.",
-        "instructions": "1. In a skillet, cook ground beef over medium heat until browned.\n2. Add taco seasoning and water according to package instructions. Simmer until thickened.\n3. Warm taco shells in the oven.\n4. Assemble tacos by filling shells with beef mixture, shredded lettuce, diced tomatoes, shredded cheddar cheese, and salsa.\n5. Serve hot with sour cream and guacamole on the side.",
-        "ingredients": [
-          "Ground beef",
-          "Taco seasoning",
-          "Taco shells",
-          "Lettuce",
-          "Tomatoes",
-          "Cheddar cheese",
-          "Salsa",
-          "Sour cream",
-          "Guacamole (optional)"
-        ],
-        "cook_time": "20 minutes",
-        "category": "Mexican",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 4,
-        "name": "Vegetable Stir-Fry",
-        "description": "Colorful assortment of fresh vegetables stir-fried to perfection.",
-        "instructions": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add sliced bell peppers, broccoli florets, sliced carrots, and snap peas. Stir-fry for a few minutes until tender-crisp.\n3. Add minced garlic and ginger, and cook for another minute.\n4. In a small bowl, mix soy sauce, sesame oil, and cornstarch.\n5. Pour the sauce over the vegetables and stir until thickened.\n6. Serve hot over steamed rice.",
-        "ingredients": [
-          "Bell peppers",
-          "Broccoli",
-          "Carrots",
-          "Snap peas",
-          "Garlic",
-          "Ginger",
-          "Soy sauce",
-          "Sesame oil",
-          "Cornstarch",
-          "Vegetable oil",
-          "Steamed rice (for serving)"
-        ],
-        "cook_time": "15 minutes",
-        "category": "Asian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 5,
-        "name": "Homemade Pizza",
-        "description": "Freshly baked pizza with your favorite toppings.",
-        "instructions": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a floured surface to desired thickness.\n3. Spread pizza sauce evenly over the dough.\n4. Sprinkle shredded mozzarella cheese over the sauce.\n5. Add desired toppings such as pepperoni, mushrooms, bell peppers, onions, etc.\n6. Bake in the preheated oven for 10-15 minutes or until crust is golden brown and cheese is bubbly.\n7. Slice and serve hot.",
-        "ingredients": [
-          "Pizza dough",
-          "Pizza sauce",
-          "Shredded mozzarella cheese",
-          "Toppings of your choice (e.g., pepperoni, mushrooms, bell peppers, onions)",
-          "Flour (for rolling)",
-          "Cornmeal (optional, for sprinkling on baking surface)"
-        ],
-        "cook_time": "15 minutes",
-        "category": "Italian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 6,
-        "name": "Vegetarian Chili",
-        "description": "Hearty and satisfying chili made with beans, vegetables, and spices.",
-        "instructions": "1. Heat olive oil in a large pot over medium heat.\n2. Add diced onion, bell peppers, and carrots. Cook until softened.\n3. Stir in minced garlic, chili powder, cumin, paprika, and oregano.\n4. Add diced tomatoes, tomato sauce, vegetable broth, and drained beans (kidney beans, black beans, etc.).\n5. Bring to a simmer and cook for about 30 minutes, stirring occasionally.\n6. Season with salt and pepper to taste.\n7. Serve hot, garnished with shredded cheese, chopped cilantro, and a dollop of sour cream if desired.",
-        "ingredients": [
-          "Olive oil",
-          "Onion",
-          "Bell peppers",
-          "Carrots",
-          "Garlic",
-          "Chili powder",
-          "Cumin",
-          "Paprika",
-          "Dried oregano",
-          "Diced tomatoes",
-          "Tomato sauce",
-          "Vegetable broth",
-          "Canned beans (kidney beans, black beans, etc.)",
-          "Salt",
-          "Black pepper",
-          "Shredded cheese (for serving)",
-          "Chopped cilantro (for garnish)",
-          "Sour cream (optional, for serving)"
-        ],
-        "cook_time": "40 minutes",
-        "category": "Vegetarian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 7,
-        "name": "Chicken Teriyaki",
-        "description": "Juicy chicken thighs glazed with a sweet and savory teriyaki sauce.",
-        "instructions": "1. In a bowl, mix soy sauce, brown sugar, minced garlic, grated ginger, and cornstarch.\n2. Heat vegetable oil in a skillet over medium-high heat.\n3. Add boneless, skinless chicken thighs to the skillet and cook until browned on both sides.\n4. Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through.\n5. Serve hot, garnished with sliced green onions and sesame seeds.",
-        "ingredients": [
-          "Soy sauce",
-          "Brown sugar",
-          "Garlic",
-          "Ginger",
-          "Cornstarch",
-          "Boneless, skinless chicken thighs",
-          "Vegetable oil",
-          "Green onions (for garnish)",
-          "Sesame seeds (for garnish)"
-        ],
-        "cook_time": "25 minutes",
-        "category": "Asian",
-        "image_url": "https://via.placeholder.com/300"
-      },
-      {
-        "id": 8,
-        "name": "Classic Chocolate Chip Cookies",
-        "description": "Soft and chewy cookies loaded with chocolate chips.",
-        "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.\n3. Beat in eggs one at a time, then stir in vanilla extract.\n4. Combine flour, baking soda, and salt; gradually blend into the creamed mixture.\n5. Stir in chocolate chips.\n6. Drop spoonfuls of dough onto ungreased baking sheets.\n7. Bake for 8 to 10 minutes or until edges are golden brown.\n8. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
-        "ingredients": [
-          "Butter (softened)",
-          "Granulated sugar",
-          "Brown sugar",
-          "Eggs",
-          "Vanilla extract",
-          "All-purpose flour",
-          "Baking soda",
-          "Salt",
-          "Semisweet chocolate chips"
-        ],
-        "cook_time": "10 minutes",
-        "category": "Dessert",
-        "image_url": "https://via.placeholder.com/300"
-      }
-    ]
-  }
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Classic Lasagna",
+      "description": "Layers of pasta, meat sauce, and cheese baked to perfection.",
+      "instructions": "1. Preheat oven to 375°F (190°C).\n2. Cook lasagna noodles according to package instructions.\n3. In a skillet, cook ground beef and onion until browned. Drain excess fat. Stir in marinara sauce.\n4. In a separate bowl, mix ricotta cheese, egg, parsley, salt, and pepper.\n5. Spread a thin layer of meat sauce in the bottom of a baking dish. Arrange a layer of lasagna noodles on top. Spread a layer of ricotta mixture, followed by meat sauce and shredded mozzarella cheese. Repeat layers.\n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes until bubbly and golden.\n7. Let it cool for 10 minutes before serving.",
+      "ingredients": [
+        "Lasagna noodles",
+        "Ground beef",
+        "Onion",
+        "Marinara sauce",
+        "Ricotta cheese",
+        "Egg",
+        "Fresh parsley",
+        "Salt",
+        "Black pepper",
+        "Shredded mozzarella cheese"
+      ],
+      "cook_time": "1 hour 20 minutes",
+      "category": "Italian",
+      "image_url": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo Pasta",
+      "description": "Creamy pasta with tender chicken and a rich Alfredo sauce.",
+      "instructions": "1. Cook fettuccine pasta according to package instructions.\n2. In a skillet, cook chicken breast until browned and cooked through.\n3. In a separate saucepan, melt butter. Stir in minced garlic and cook until fragrant.\n4. Pour in heavy cream and simmer until slightly thickened.\n5. Stir in grated Parmesan cheese until melted and smooth.\n6. Season with salt and pepper to taste.\n7. Toss cooked pasta with Alfredo sauce and sliced chicken.\n8. Serve hot, garnished with chopped parsley if desired.",
+      "ingredients": [
+        "Fettuccine pasta",
+        "Chicken breast",
+        "Butter",
+        "Garlic",
+        "Heavy cream",
+        "Parmesan cheese",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley (optional)"
+      ],
+      "cook_time": "30 minutes",
+      "category": "Italian",
+      "image_url": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beef Tacos",
+      "description": "Flavorful seasoned beef served in crispy taco shells with all the fixings.",
+      "instructions": "1. In a skillet, cook ground beef over medium heat until browned.\n2. Add taco seasoning and water according to package instructions. Simmer until thickened.\n3. Warm taco shells in the oven.\n4. Assemble tacos by filling shells with beef mixture, shredded lettuce, diced tomatoes, shredded cheddar cheese, and salsa.\n5. Serve hot with sour cream and guacamole on the side.",
+      "ingredients": [
+        "Ground beef",
+        "Taco seasoning",
+        "Taco shells",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar cheese",
+        "Salsa",
+        "Sour cream",
+        "Guacamole (optional)"
+      ],
+      "cook_time": "20 minutes",
+      "category": "Mexican",
+      "image_url": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Stir-Fry",
+      "description": "Colorful assortment of fresh vegetables stir-fried to perfection.",
+      "instructions": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add sliced bell peppers, broccoli florets, sliced carrots, and snap peas. Stir-fry for a few minutes until tender-crisp.\n3. Add minced garlic and ginger, and cook for another minute.\n4. In a small bowl, mix soy sauce, sesame oil, and cornstarch.\n5. Pour the sauce over the vegetables and stir until thickened.\n6. Serve hot over steamed rice.",
+      "ingredients": [
+        "Bell peppers",
+        "Broccoli",
+        "Carrots",
+        "Snap peas",
+        "Garlic",
+        "Ginger",
+        "Soy sauce",
+        "Sesame oil",
+        "Cornstarch",
+        "Vegetable oil",
+        "Steamed rice (for serving)"
+      ],
+      "cook_time": "15 minutes",
+      "category": "Asian",
+      "image_url": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Homemade Pizza",
+      "description": "Freshly baked pizza with your favorite toppings.",
+      "instructions": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a floured surface to desired thickness.\n3. Spread pizza sauce evenly over the dough.\n4. Sprinkle shredded mozzarella cheese over the sauce.\n5. Add desired toppings such as pepperoni, mushrooms, bell peppers, onions, etc.\n6. Bake in the preheated oven for 10-15 minutes or until crust is golden brown and cheese is bubbly.\n7. Slice and serve hot.",
+      "ingredients": [
+        "Pizza dough",
+        "Pizza sauce",
+        "Shredded mozzarella cheese",
+        "Toppings of your choice (e.g., pepperoni, mushrooms, bell peppers, onions)",
+        "Flour (for rolling)",
+        "Cornmeal (optional, for sprinkling on baking surface)"
+      ],
+      "cook_time": "15 minutes",
+      "category": "Italian",
+      "image_url": "https://www.allrecipes.com/thmb/9UTj7kZBJDqory0cdEv_bw6Ef_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48727-Mikes-homemade-pizza-DDMFS-beauty-2x1-BG-2976-d5926c9253d3486bbb8a985172604291.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vegetarian Chili",
+      "description": "Hearty and satisfying chili made with beans, vegetables, and spices.",
+      "instructions": "1. Heat olive oil in a large pot over medium heat.\n2. Add diced onion, bell peppers, and carrots. Cook until softened.\n3. Stir in minced garlic, chili powder, cumin, paprika, and oregano.\n4. Add diced tomatoes, tomato sauce, vegetable broth, and drained beans (kidney beans, black beans, etc.).\n5. Bring to a simmer and cook for about 30 minutes, stirring occasionally.\n6. Season with salt and pepper to taste.\n7. Serve hot, garnished with shredded cheese, chopped cilantro, and a dollop of sour cream if desired.",
+      "ingredients": [
+        "Olive oil",
+        "Onion",
+        "Bell peppers",
+        "Carrots",
+        "Garlic",
+        "Chili powder",
+        "Cumin",
+        "Paprika",
+        "Dried oregano",
+        "Diced tomatoes",
+        "Tomato sauce",
+        "Vegetable broth",
+        "Canned beans (kidney beans, black beans, etc.)",
+        "Salt",
+        "Black pepper",
+        "Shredded cheese (for serving)",
+        "Chopped cilantro (for garnish)",
+        "Sour cream (optional, for serving)"
+      ],
+      "cook_time": "40 minutes",
+      "category": "Vegetarian",
+      "image_url": "https://www.ambitiouskitchen.com/wp-content/uploads/2020/01/The-Best-Vegetarian-Chili-4-725x725-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Teriyaki",
+      "description": "Juicy chicken thighs glazed with a sweet and savory teriyaki sauce.",
+      "instructions": "1. In a bowl, mix soy sauce, brown sugar, minced garlic, grated ginger, and cornstarch.\n2. Heat vegetable oil in a skillet over medium-high heat.\n3. Add boneless, skinless chicken thighs to the skillet and cook until browned on both sides.\n4. Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through.\n5. Serve hot, garnished with sliced green onions and sesame seeds.",
+      "ingredients": [
+        "Soy sauce",
+        "Brown sugar",
+        "Garlic",
+        "Ginger",
+        "Cornstarch",
+        "Boneless, skinless chicken thighs",
+        "Vegetable oil",
+        "Green onions (for garnish)",
+        "Sesame seeds (for garnish)"
+      ],
+      "cook_time": "25 minutes",
+      "category": "Asian",
+      "image_url": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Chip Cookies",
+      "description": "Soft and chewy cookies loaded with chocolate chips.",
+      "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.\n3. Beat in eggs one at a time, then stir in vanilla extract.\n4. Combine flour, baking soda, and salt; gradually blend into the creamed mixture.\n5. Stir in chocolate chips.\n6. Drop spoonfuls of dough onto ungreased baking sheets.\n7. Bake for 8 to 10 minutes or until edges are golden brown.\n8. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+      "ingredients": [
+        "Butter (softened)",
+        "Granulated sugar",
+        "Brown sugar",
+        "Eggs",
+        "Vanilla extract",
+        "All-purpose flour",
+        "Baking soda",
+        "Salt",
+        "Semisweet chocolate chips"
+      ],
+      "cook_time": "10 minutes",
+      "category": "Dessert",
+      "image_url": "https://www.foodandwine.com/thmb/2fCHVK5nB2p7WXygSsMJL13AS8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2012-r-xl-classic-chocolate-chip-cookies-0336af978c1c4798809ec182e8af79e5.jpg"
+    }
+  ]
+}

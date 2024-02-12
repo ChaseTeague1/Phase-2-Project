@@ -2,12 +2,12 @@ import React from "react";
 import Recipe from './Recipe';
 
 function RecipeList({recipes}){
+
     return (
-        <div>
-            <h1 className="recipe-header">RECIPES</h1>
+        <div className="card-container">
             {
                 recipes.map(recipe => (
-                    <Recipe recipe={recipe}/>
+                    <Recipe key={recipe.name} recipe={recipe}/>
                 ))
             }
         </div>
