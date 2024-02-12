@@ -44,13 +44,13 @@ function NewRecipeForm({onFormSubmit}){
 
     return (
         <form onSubmit={handleSubmit} className="recipe-form-container">
-            <label>
+            <label className="form-label">
                 Post Your Spectactular Recipe!
             </label>
             <input onChange={(e) => setName(e.target.value)} value={name} placeholder="Enter recipe name..." className="input-field" type="text"/>
             <input onChange={(e) => setDescription(e.target.value)} value={description} placeholder="Enter recipe description..." className="input-field" type="text"/>
-            <input onChange={(e) => setInstructions(e.target.value)} value={instructions} placeholder="Enter recipe instructions..." className="input-field" type="text"/>
-            <input onChange={(e) => setIngredients(e.target.value)} value={ingredients} placeholder="Enter recipe ingredients..." className="input-field" type="text"/>
+            <textarea id="instructions" onChange={(e) => setInstructions(e.target.value)} value={instructions} placeholder="Enter recipe instructions..." className="input-field" type="text"/>
+            <textarea id="ingredients" onChange={(e) => setIngredients(e.target.value)} value={ingredients} placeholder="Enter recipe ingredients..." className="input-field" type="text"/>
             <input onChange={(e) => setCooktime(e.target.value)} value={cook_time} placeholder="Enter recipe cook time..." className="input-field" type="text"/>
             <select onChange={(e) => setCategory(e.target.value)} value={category} className="input-field">
                 <option>Choose Category</option>
