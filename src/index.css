@@ -87,6 +87,10 @@ label{
   text-align: center;
   justify-content: center;
   font-size: 12px;
+  width: 300px;
+  height: 321px;
+  max-width: 300px;
+  min-height: 321px;
 }
 
 .card-container{
@@ -185,4 +189,80 @@ label{
 
 .category-button{
   border-radius: 20px;
+}
+
+.home{
+  display: absolute;
+  text-align: center;
+  border: solid 2px black;
+  height: 100%;
+  background-color: #fae5d3;
+}
+
+.home-title{
+  font-size: 50px;
+  font-family: american typewriter;
+  margin-bottom: 0px;
+  background-color: #fef9e7;
+  border-radius: 100px;
+}
+
+.home-p em{
+  font-size: 20px;
+  background-color: #fae5d3;
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  border-radius: 5px;
+  font-family: american typewriter;
+}
+.home-p{
+  background-color: #fae5d3;
+}
+
+.home-h5{
+  font-size: 15px;
+  background-color: #fae5d3;
+}
+
+.p-left{
+  text-align: center;
+  display: table;
+  width: 250px;
+  height: 250px;
+  margin-left: 80px;
+  background-color:#fef9e7;
+  border-radius: 400px;
+  padding: 15px;
+  padding-top: 15px;
+}
+
+.p-right{
+  text-align: center;
+  justify-content: center;
+  margin-left: 1100px;
+  width: 200px;
+  height: 200px;
+  background-color:#fef9e7;
+  border-radius: 400px;
+  padding: 15px;
+  padding-top: 15px;
+  font-size: larger;
+  line-height: 50px;
+  text-align: center;
+  top: 400px;
+}
+
+.p-left-image{
+  width: 100px;
+  height: 100px;
+  background-color: #fae5d3;
+}
+
+span{
+  display: table-cell;
+  vertical-align: middle;
+  background-color:#fef9e7;
+  border-radius: 400px;
+  line-height: 40px;
+  font-size: larger;
 }
