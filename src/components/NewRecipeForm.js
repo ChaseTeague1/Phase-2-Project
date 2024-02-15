@@ -30,7 +30,7 @@ function NewRecipeForm({onFormSubmit}){
         .then(res => res.json())
         .then((data) => {
             console.log(data)
-            onFormSubmit(newRecipe)
+            onFormSubmit(data)
             setCategory("Choose Category");
             setName("");
             setDescription("");

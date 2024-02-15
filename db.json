@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Classic Lasagna",
       "description": "Layers of pasta, meat sauce, and cheese baked to perfection.",
       "instructions": "1. Preheat oven to 375°F (190°C).\n2. Cook lasagna noodles according to package instructions.\n3. In a skillet, cook ground beef and onion until browned. Drain excess fat. Stir in marinara sauce.\n4. In a separate bowl, mix ricotta cheese, egg, parsley, salt, and pepper.\n5. Spread a thin layer of meat sauce in the bottom of a baking dish. Arrange a layer of lasagna noodles on top. Spread a layer of ricotta mixture, followed by meat sauce and shredded mozzarella cheese. Repeat layers.\n6. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes until bubbly and golden.\n7. Let it cool for 10 minutes before serving.",
@@ -22,7 +22,7 @@
       "image_url": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Chicken Alfredo Pasta",
       "description": "Creamy pasta with tender chicken and a rich Alfredo sauce.",
       "instructions": "1. Cook fettuccine pasta according to package instructions.\n2. In a skillet, cook chicken breast until browned and cooked through.\n3. In a separate saucepan, melt butter. Stir in minced garlic and cook until fragrant.\n4. Pour in heavy cream and simmer until slightly thickened.\n5. Stir in grated Parmesan cheese until melted and smooth.\n6. Season with salt and pepper to taste.\n7. Toss cooked pasta with Alfredo sauce and sliced chicken.\n8. Serve hot, garnished with chopped parsley if desired.",
@@ -42,7 +42,7 @@
       "image_url": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Beef Tacos",
       "description": "Flavorful seasoned beef served in crispy taco shells with all the fixings.",
       "instructions": "1. In a skillet, cook ground beef over medium heat until browned.\n2. Add taco seasoning and water according to package instructions. Simmer until thickened.\n3. Warm taco shells in the oven.\n4. Assemble tacos by filling shells with beef mixture, shredded lettuce, diced tomatoes, shredded cheddar cheese, and salsa.\n5. Serve hot with sour cream and guacamole on the side.",
@@ -62,7 +62,7 @@
       "image_url": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Vegetable Stir-Fry",
       "description": "Colorful assortment of fresh vegetables stir-fried to perfection.",
       "instructions": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add sliced bell peppers, broccoli florets, sliced carrots, and snap peas. Stir-fry for a few minutes until tender-crisp.\n3. Add minced garlic and ginger, and cook for another minute.\n4. In a small bowl, mix soy sauce, sesame oil, and cornstarch.\n5. Pour the sauce over the vegetables and stir until thickened.\n6. Serve hot over steamed rice.",
@@ -84,7 +84,7 @@
       "image_url": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Homemade Pizza",
       "description": "Freshly baked pizza with your favorite toppings.",
       "instructions": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a floured surface to desired thickness.\n3. Spread pizza sauce evenly over the dough.\n4. Sprinkle shredded mozzarella cheese over the sauce.\n5. Add desired toppings such as pepperoni, mushrooms, bell peppers, onions, etc.\n6. Bake in the preheated oven for 10-15 minutes or until crust is golden brown and cheese is bubbly.\n7. Slice and serve hot.",
@@ -101,7 +101,7 @@
       "image_url": "https://www.allrecipes.com/thmb/9UTj7kZBJDqory0cdEv_bw6Ef_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48727-Mikes-homemade-pizza-DDMFS-beauty-2x1-BG-2976-d5926c9253d3486bbb8a985172604291.jpg"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Vegetarian Chili",
       "description": "Hearty and satisfying chili made with beans, vegetables, and spices.",
       "instructions": "1. Heat olive oil in a large pot over medium heat.\n2. Add diced onion, bell peppers, and carrots. Cook until softened.\n3. Stir in minced garlic, chili powder, cumin, paprika, and oregano.\n4. Add diced tomatoes, tomato sauce, vegetable broth, and drained beans (kidney beans, black beans, etc.).\n5. Bring to a simmer and cook for about 30 minutes, stirring occasionally.\n6. Season with salt and pepper to taste.\n7. Serve hot, garnished with shredded cheese, chopped cilantro, and a dollop of sour cream if desired.",
@@ -130,7 +130,7 @@
       "image_url": "https://www.ambitiouskitchen.com/wp-content/uploads/2020/01/The-Best-Vegetarian-Chili-4-725x725-1.jpg"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Chicken Teriyaki",
       "description": "Juicy chicken thighs glazed with a sweet and savory teriyaki sauce.",
       "instructions": "1. In a bowl, mix soy sauce, brown sugar, minced garlic, grated ginger, and cornstarch.\n2. Heat vegetable oil in a skillet over medium-high heat.\n3. Add boneless, skinless chicken thighs to the skillet and cook until browned on both sides.\n4. Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through.\n5. Serve hot, garnished with sliced green onions and sesame seeds.",
@@ -150,7 +150,7 @@
       "image_url": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Chocolate Chip Cookies",
       "description": "Soft and chewy cookies loaded with chocolate chips.",
       "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.\n3. Beat in eggs one at a time, then stir in vanilla extract.\n4. Combine flour, baking soda, and salt; gradually blend into the creamed mixture.\n5. Stir in chocolate chips.\n6. Drop spoonfuls of dough onto ungreased baking sheets.\n7. Bake for 8 to 10 minutes or until edges are golden brown.\n8. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
@@ -170,7 +170,7 @@
       "image_url": "https://www.foodandwine.com/thmb/2fCHVK5nB2p7WXygSsMJL13AS8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2012-r-xl-classic-chocolate-chip-cookies-0336af978c1c4798809ec182e8af79e5.jpg"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Vegetable Curry",
       "description": "A flavorful and aromatic vegetarian curry made with assorted vegetables and spices.",
       "instructions": "1. Heat oil in a large pot over medium heat.\n2. Add chopped onions and cook until soft and translucent.\n3. Stir in minced garlic, ginger, and curry paste. Cook for 1-2 minutes until fragrant.\n4. Add diced vegetables (such as potatoes, carrots, bell peppers, and cauliflower) and cook until slightly tender.\n5. Pour in coconut milk and vegetable broth. Bring to a simmer and cook until vegetables are fully cooked.\n6. Season with salt and pepper to taste.\n7. Serve hot over cooked rice or with naan bread.",
@@ -192,7 +192,7 @@
       "image_url": "https://simply-delicious-food.com/wp-content/uploads/2020/09/Creamy-vegetable-curry-4.jpg"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Grilled Salmon",
       "description": "Fresh salmon fillets marinated and grilled to perfection.",
       "instructions": "1. In a bowl, mix olive oil, lemon juice, minced garlic, salt, pepper, and chopped fresh herbs (such as dill or parsley).\n2. Coat salmon fillets with the marinade and let them marinate for at least 30 minutes.\n3. Preheat grill to medium-high heat.\n4. Place salmon fillets on the grill and cook for about 4-5 minutes per side, or until fish flakes easily with a fork.\n5. Serve hot with lemon wedges.",
@@ -211,7 +211,7 @@
       "image_url": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Pasta Primavera",
       "description": "A vibrant pasta dish loaded with seasonal vegetables and tossed in a light sauce.",
       "instructions": "1. Cook pasta according to package instructions until al dente.\n2. In a large skillet, heat olive oil over medium heat.\n3. Add sliced bell peppers, cherry tomatoes, zucchini, and any other desired vegetables. Cook until tender-crisp.\n4. Stir in minced garlic and cook for another minute.\n5. Add cooked pasta to the skillet and toss to combine.\n6. Season with salt, pepper, and freshly grated Parmesan cheese.\n7. Serve hot, garnished with chopped fresh basil.",
@@ -232,7 +232,7 @@
       "image_url": "https://www.budgetbytes.com/wp-content/uploads/2023/05/Pasta-Primavera-fork.jpg"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Teriyaki Beef Stir-Fry",
       "description": "Tender strips of beef stir-fried with vegetables in a savory teriyaki sauce.",
       "instructions": "1. Slice beef steak thinly against the grain.\n2. In a bowl, mix soy sauce, brown sugar, minced garlic, grated ginger, and cornstarch to make the teriyaki sauce.\n3. Heat oil in a large skillet or wok over high heat.\n4. Add sliced beef and stir-fry until browned.\n5. Add sliced bell peppers, onions, broccoli florets, and any other desired vegetables.\n6. Pour the teriyaki sauce over the beef and vegetables.\n7. Stir-fry until the sauce thickens and coats everything evenly.\n8. Serve hot over cooked rice.",
@@ -254,7 +254,7 @@
       "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/12/4/0/WU1506H_teriyaki-beef-stir-fry_s4x3.jpg.rend.hgtvcom.616.462.suffix/1480899699382.jpeg"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Caprese Stuffed Chicken",
       "description": "Tender chicken breasts stuffed with fresh mozzarella, tomatoes, and basil, then baked to perfection.",
       "instructions": "1. Preheat oven to 375°F (190°C).\n2. Season chicken breasts with salt, pepper, and Italian seasoning.\n3. Slice a pocket into each chicken breast.\n4. Stuff each pocket with slices of fresh mozzarella, tomato, and basil leaves.\n5. Secure the pockets with toothpicks if needed.\n6. Heat olive oil in an oven-safe skillet over medium-high heat.\n7. Brown chicken breasts on both sides.\n8. Transfer skillet to the oven and bake for 20-25 minutes, or until chicken is cooked through.\n9. Serve hot, garnished with balsamic glaze if desired.",
@@ -274,7 +274,7 @@
       "image_url": "https://cafedelites.com/wp-content/uploads/2017/03/Caprese-Stuffed-Balsamic-Chicken-IMAGE-19.jpg"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Greek Salad",
       "description": "A refreshing salad with crisp lettuce, tomatoes, cucumbers, olives, feta cheese, and a tangy vinaigrette.",
       "instructions": "1. In a large bowl, combine chopped lettuce, sliced tomatoes, diced cucumbers, sliced red onions, Kalamata olives, and crumbled feta cheese.\n2. In a small bowl, whisk together olive oil, red wine vinegar, lemon juice, minced garlic, dried oregano, salt, and pepper to make the vinaigrette.\n3. Drizzle the vinaigrette over the salad and toss to coat.\n4. Serve immediately, garnished with fresh oregano if desired.",
@@ -299,7 +299,7 @@
       "image_url": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "BBQ Pulled Pork Sandwiches",
       "description": "Slow-cooked pulled pork smothered in barbecue sauce, served on toasted buns.",
       "instructions": "1. Season pork shoulder with salt, pepper, and your favorite dry rub.\n2. Place pork shoulder in a slow cooker and cook on low for 8-10 hours, or until tender and falling apart.\n3. Shred the pork using two forks and discard any excess fat.\n4. Mix shredded pork with barbecue sauce until evenly coated.\n5. Toast buns in the oven or on a grill.\n6. Spoon pulled pork onto the bottom half of each bun.\n7. Top with coleslaw if desired.\n8. Cover with the top half of the bun and serve hot.",
@@ -317,7 +317,7 @@
       "image_url": "https://saltpepperskillet.com/wp-content/uploads/pulled-pork-sandwiches-on-butcher-paper-horizontal.jpg"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Mushroom Risotto",
       "description": "Creamy and flavorful risotto with earthy mushrooms and Parmesan cheese.",
       "instructions": "1. In a saucepan, heat vegetable broth over low heat and keep it warm.\n2. In a separate large skillet, heat olive oil over medium heat.\n3. Add finely chopped onions and cook until translucent.\n4. Stir in Arborio rice and cook for a few minutes until lightly toasted.\n5. Add white wine and cook until absorbed.\n6. Begin adding warm vegetable broth to the rice, one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more.\n7. After about 20 minutes, when the rice is creamy and tender but still slightly firm, stir in sliced mushrooms.\n8. Cook for an additional 5 minutes, stirring frequently, until mushrooms are tender.\n9. Remove from heat and stir in grated Parmesan cheese and chopped parsley.\n10. Serve hot, garnished with extra Parmesan cheese and parsley if desired.",
@@ -338,7 +338,7 @@
       "image_url": "https://lindseyeatsla.com/wp-content/uploads/2020/12/Lindseyeatsla_Mushroom_Risotto-9.jpg"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Crispy Chicken Tenders",
       "description": "Juicy chicken tenders coated in a crispy breadcrumb coating and baked to perfection.",
       "instructions": "1. Preheat oven to 400°F (200°C).\n2. In one shallow dish, mix breadcrumbs with grated Parmesan cheese, salt, pepper, garlic powder, and paprika.\n3. In another shallow dish, beat eggs.\n4. Dip chicken tenders in beaten eggs, then coat with breadcrumb mixture.\n5. Place coated chicken tenders on a greased baking sheet.\n6. Bake for 20-25 minutes, or until chicken is cooked through and coating is crispy and golden brown.\n7. Serve hot with your favorite dipping sauce.",
@@ -357,7 +357,7 @@
       "image_url": "https://www.recipetineats.com/wp-content/uploads/2015/04/Crunchy-Baked-Chicken-Tenders_9.jpg"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Creamy Tomato Basil Soup",
       "description": "A comforting and creamy tomato soup with fresh basil flavor.",
       "instructions": "1. In a large pot, heat olive oil over medium heat.\n2. Add chopped onions and minced garlic, and cook until softened.\n3. Stir in canned diced tomatoes (with juices), tomato paste, vegetable broth, and fresh basil leaves.\n4. Bring to a simmer and cook for about 20 minutes.\n5. Use an immersion blender to puree the soup until smooth.\n6. Stir in heavy cream and season with salt and pepper to taste.\n7. Serve hot, garnished with additional basil leaves and a drizzle of cream if desired.",
